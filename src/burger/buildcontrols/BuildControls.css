@@ -11,6 +11,8 @@
 }
 
 .OrderButton {
+  position: relative;
+  left: 18px;
   background-color: #ffffff;
   outline: none;
   cursor: pointer;
